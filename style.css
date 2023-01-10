@@ -119,7 +119,13 @@ display: flex;
     
     
   }
-  
+  .show-all{
+    grid-column: 2;
+  }
+  .btn.btn-primary:hover {
+    background-color: green;
+    transition: 0.3s ease-in-out;
+  }
   
   /* finish projects section */ 
   
