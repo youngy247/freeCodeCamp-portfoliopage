@@ -129,6 +129,16 @@
   }
   
   
+  .show-all-container {
+    
+    grid-column: 2;
+    
+    
+    
+    
+  }
+  
+  
   /* finish projects section */ 
   
   /* start contact section */
@@ -177,7 +187,10 @@
   background: gray;
   
     }
-    
+    .show-all a:hover {
+      color: pink;
+
+    }
   
   /* finish contact section */
   
